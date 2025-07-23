@@ -1,4 +1,4 @@
-# ✉️ Auto Email Writer
+# ✉️ Auto Email Replier
 
 A full-stack application that automatically generates email content using the **Gemini AI API**.  
 Built with **Spring Boot** (Java) for the backend and **React.js** for the frontend.
