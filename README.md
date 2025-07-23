@@ -1,12 +1,29 @@
-# React + Vite
+# ✉️ Auto Email Writer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack application that automatically generates email content using the **Gemini AI API**.  
+Built with **Spring Boot** (Java) for the backend and **React.js** for the frontend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+-  Auto-generates professional emails from user input
+- Gemini API integration for natural language generation
+-  RESTful API using Spring Boot
+-  Modern frontend built with React + Vite
+- Clean separation of frontend and backend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Tech Stack
+
+| Layer       | Tech                        |
+|-------------|-----------------------------|
+| Frontend    | React.js, Vite, Tailwind CSS (optional) |
+| Backend     | Spring Boot, Java, REST API |
+| AI Service  | Gemini API (Google Generative AI) |
+| Build Tool  | Maven                       |
+
+---
+
+
